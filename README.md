@@ -77,6 +77,7 @@ Support Packages
 - [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams)
 - [GPU Coder Interface for Deep Learning Libraries](https://kr.mathworks.com/matlabcentral/fileexchange/68642-gpu-coder-interface-for-deep-learning-libraries)
 
+<em>Note that this demo is developed based on Windows operating system, and few minor issues are expected with other OS.</em>
 
 For more information on Deep Learning in MATLAB
 -------------
