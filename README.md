@@ -60,7 +60,7 @@ Prerequisites
 - CUDA enabled NVIDIA GPU with compute capability 3.2 or higher.
 - NVIDIA CUDA toolkit and driver.
 - NVIDIA cuDNN library.
-- Environment variables for the compilers and libraries. For information on the supported versions of the compilers and libraries, see [Third-party Products]([https://www.mathworks.com/help/releases/R2020a/gpucoder/gs/install-prerequisites.html#mw_aa8b0a39-45ea-4295-b244-52d6e6907bff](https://www.mathworks.com/help/gpucoder/gs/install-prerequisites.html) (GPU Coder). For setting up the environment variables, see [Setting Up the Prerequisite Products](https://www.mathworks.com/help/releases/R2020a/gpucoder/gs/setting-up-the-toolchain.html) (GPU Coder).
+- Environment variables for the compilers and libraries. For information on the supported versions of the compilers and libraries, see [Third-party Products](https://www.mathworks.com/help/gpucoder/gs/install-prerequisites.html) (GPU Coder). For setting up the environment variables, see [Setting Up the Prerequisite Products](https://www.mathworks.com/help/releases/R2020a/gpucoder/gs/setting-up-the-toolchain.html) (GPU Coder).
 - GPU Coder Interface for Deep Learning Libraries support package. To install this support package, use the Add-On Explorer.
 
 Requires
